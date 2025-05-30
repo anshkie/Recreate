@@ -1,3 +1,4 @@
 node_modules
 
-env
+.env
+.env.*  # optional: ignore .env.local, .env.development, etc.

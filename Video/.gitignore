@@ -7,7 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-env
+.env
+.env.*  # optional: ignore .env.local, .env.development, etc.
+
 
 node_modules
 dist
