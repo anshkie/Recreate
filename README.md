@@ -182,3 +182,10 @@ RECREATE/
 ```
 
 ---
+![Job_history](https://github.com/user-attachments/assets/c15089cb-0dca-4528-8f6a-b75949604eca)
+![Saving_jobs](https://github.com/user-attachments/assets/42916508-f31a-474a-b120-834bfb5f579f)
+![result](https://github.com/user-attachments/assets/f80a5842-c784-454a-a19f-ddc88623f7eb)
+![Preview](https://github.com/user-attachments/assets/af1c1d23-757d-48a0-a774-49410e36ab80)
+![login](https://github.com/user-attachments/assets/b917cfe4-5118-43b0-8687-670f264aa8f9)
+![Home](https://github.com/user-attachments/assets/656dbfdd-64ec-492b-b8aa-54dd228aeb90)
+![Edit_window](https://github.com/user-attachments/assets/eff951db-238a-4e67-9673-59c71a621b84)
