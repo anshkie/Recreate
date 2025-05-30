@@ -81,6 +81,12 @@ Update `src/index.css`:
 npm install @shadcn/ui
 ```
 
+#### Install Lucid Icons
+
+```bash
+npm install lucide-react
+```
+
 #### Run Frontend
 
 ```bash
