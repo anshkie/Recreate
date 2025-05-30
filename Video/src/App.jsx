@@ -15,9 +15,6 @@ const App = () => {
             <Link to="/">
               <Button variant="outline">Home</Button>
             </Link>
-            <Link to="/dashboard">
-              <Button variant="outline">Dashboard</Button>
-            </Link>
             <Link to="/login">
               <Button>Login</Button>
             </Link>
